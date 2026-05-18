@@ -262,4 +262,4 @@ Run all cells top to bottom. The notebook is self-contained and follows the pipe
 
 ## AUTHOR
 
-- Gaurav Sharma 
+Gaurav Sharma 
