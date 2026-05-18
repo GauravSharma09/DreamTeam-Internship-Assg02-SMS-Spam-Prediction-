@@ -260,6 +260,6 @@ Run all cells top to bottom. The notebook is self-contained and follows the pipe
 
 ---
 
-## License
+## AUTHOR
 
-This project is open-source and available under the [MIT License](LICENSE).
+- Gaurav Sharma 
